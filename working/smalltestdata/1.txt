@@ -1,0 +1,11 @@
+sasada
+
+Title: Sketches of the East Africa Campaign
+
+Author: Robert Valentine Dolbey
+
+Release Date: December 1, 2003  [eBook #10362]
+
+Language: English
+
+Regex works if you remove the first two lines of this text file, but only for title

@@ -1,0 +1,2 @@
+	with open(str(input_path + text), 'r+', encoding='utf8') as t:
+		head = [next(t) for x in range(first_lines)]
